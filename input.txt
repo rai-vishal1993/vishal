@@ -1,0 +1,3 @@
+dhaval,50000
+vishal,40000
+rahul,30000

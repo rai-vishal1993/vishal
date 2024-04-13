@@ -1,0 +1,27 @@
+1. Write a Python program that uses the filter function to extract all uppercase letters from a list of mixed-case strings.
+Original list of strings:
+ ['Hello', 'w3resource', 'Python', 'Filter', 'Learning']
+Extract all uppercase letters from the said list of mixed-case strings:
+['H', 'P', 'F', 'L']
+
+2. Write a Python function that filters out all elements less than or equal than a specified value from a list of numbers using the filter function.
+Original list of numbers: [20, 15, 24, 37, 23, 11, 7]
+Filters out all elements less than or equal to a specified value 20 :
+[20, 15, 11, 7]
+
+3. Write a Python program that creates a list of names and uses the filter function to extract names that start with a vowel (A, E, I, O, U).
+Original list of names:
+['Elita', 'Vitold', 'Audovacar', 'Kerensa', 'Ramana', 'Iolanda', 'Landyn']
+Extract names starting with a vowel:
+['Elita', 'Audovacar', 'Iolanda']
+
+4. Write a Python function that filters out all empty strings from a list of strings using the filter function.
+Original list of strings: ['', 'w3resource', 'Filter', '', 'Python', '']
+A new list containing only non-empty strings:
+['w3resource', 'Filter', 'Python']
+
+5. Write a Python program that creates a list of dictionaries containing student information (name, age, grade) and uses the filter function to extract students with a grade greater than or equal to 95.
+Student information:
+[{'name': 'Denis Helio', 'age': 17, 'grade': 97}, {'name': 'Hania Mehtap', 'age': 16, 'grade': 92}, {'name': 'Kelan Stasys', 'age': 17, 'grade': 90}, {'name': 'Velvet Mirko', 'age': 16, 'grade': 94}, {'name': 'Delores Aeneas', 'age': 17, 'grade': 100}]
+Students with high grades:
+[{'name': 'Denis Helio', 'age': 17, 'grade': 97}, {'name': 'Delores Aeneas', 'age': 17, 'grade': 100}]

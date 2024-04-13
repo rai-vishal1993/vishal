@@ -1,0 +1,5 @@
+dhaval's salary is 50000
+.
+vishal's salary is 40000
+.
+rahul's salary is 30000.
